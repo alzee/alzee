@@ -63,4 +63,7 @@
 /drush
 /drupal.phar
 /drupal
+
+#
 /sql
+!/web/sites/default/files/images
