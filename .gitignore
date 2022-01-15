@@ -66,4 +66,8 @@
 
 #
 /sql
+!/web/sites/default/
+/web/sites/default/*
+!/web/sites/default/files
+/web/sites/default/files/*
 !/web/sites/default/files/images
