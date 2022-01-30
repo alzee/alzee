@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c947394110201e01861f5e49f5f52f0f",
+    "content-hash": "4fd618aca8ee0c65c8e39aca06d3c697",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -1372,17 +1372,17 @@
         },
         {
             "name": "drupal/alz",
-            "version": "0.2.0",
+            "version": "1.0.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/alz.git",
-                "reference": "8.x-0.2"
+                "reference": "8.x-1.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/alz-8.x-0.2.zip",
-                "reference": "8.x-0.2",
-                "shasum": "fcdd0d862c54a23b91b5bfc6ee62dcb5e0fc65fb"
+                "url": "https://ftp.drupal.org/files/projects/alz-8.x-1.0.zip",
+                "reference": "8.x-1.0",
+                "shasum": "d89b1e81ee8a177b03af7ecf8aa3965073ba3b07"
             },
             "require": {
                 "drupal/core": "^8.8 || ^9"
@@ -1390,8 +1390,8 @@
             "type": "drupal-theme",
             "extra": {
                 "drupal": {
-                    "version": "8.x-0.2",
-                    "datestamp": "1607227074",
+                    "version": "8.x-1.0",
+                    "datestamp": "1643566790",
                     "security-coverage": {
                         "status": "not-covered",
                         "message": "Project has not opted into security advisory coverage!"
@@ -1409,7 +1409,7 @@
                     "role": "Developer"
                 }
             ],
-            "description": "A minimalist theme based on bartik.",
+            "description": "A minimalist dark theme based on bartik.",
             "homepage": "https://drupal.org/project/alz",
             "support": {
                 "source": "https://git.drupalcode.org/project/alz",
